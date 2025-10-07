@@ -20,5 +20,5 @@ Interactive Tableau dashboard analyzing AmeriCor program metrics across states, 
 - GitHub for documentation  
 
 ## 🔗 Links
-- **Live Dashboard:** [View on Tableau Public]([https://public.tableau.com/app/profile/yourprofile/viz/AmeriCorDashboard/Main](https://public.tableau.com/app/profile/cassiolm/viz/AmericorDummyDashboard/OpExcellence-Summary))
-- **GitHub Repo:** [github.com/seuusuario/tableau-americor-dashboard](https://github.com/cassiolm/americor-dashboard)
+- **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/cassiolm/viz/AmericorDummyDashboard/OpExcellence-Summary)
+- **GitHub Repo:** [github.com/cassiolm/americor-dashboard](https://github.com/cassiolm/americor-dashboard)
